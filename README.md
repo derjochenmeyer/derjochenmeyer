@@ -1,6 +1,6 @@
 # Jochen Meyer
 
-Builder and founder since 1999. Background in pharmacy and digital health (18 years pharma marketing, last roles: Head of Product & Strategy, Head of Marketing OTC, Head of Digital Health). Now building full-time on my own projects.
+Builder and founder since 1999. Background in pharmacy and digital health (18 years pharma marketing, last roles: Head of Product & Strategy, Head of Marketing OTC, Head of Digital Health).
 
 ## What I work on
 
